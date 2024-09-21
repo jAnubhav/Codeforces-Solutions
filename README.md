@@ -6,6 +6,10 @@ Welcome to my repository of Codeforces problem solutions! 💡 Here, you'll find
 
 Each folder denotes the question name and it has a `code.c` file with the code part
 
+``` bash
+/Question Name/code.c
+```
+
 ### 💻 Programming Languages
 
 - C
